@@ -30,3 +30,4 @@ Enter time to switch in seconds: #select whatever time you want
 
 Press [CTRL+C] to stop the script and switch to original IP
 
+https://github.com/Prometheus918/nord_ip_loop/blob/main/installation%20and%20running.png
